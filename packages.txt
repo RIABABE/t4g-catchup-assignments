@@ -1,0 +1,2 @@
+tree: Useful for visualizing complex directory structures and ensuring deployments are correctly organized.
+htop: Vital for real-time monitoring of CPU/RAM usage and managing runaway backend processes.
