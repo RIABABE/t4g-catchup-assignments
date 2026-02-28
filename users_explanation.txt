@@ -1,8 +1,0 @@
-dev_alice:x:1001:1001::/home/dev_alice:/bin/bash
-Field 1: Username
-Field 2: Password placeholder (x means encrypted in /etc/shadow)
-Field 3: User ID (UID)
-Field 4: Group ID (GID)
-Field 5: GECOS (User info/Full name)
-Field 6: Home Directory path
-Field 7: Default Shell
