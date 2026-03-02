@@ -1,0 +1,27 @@
+
+
+a) -rwxr-xr--
+   User  : can read, write and execute the file
+   Group : can read and execute but cannot write
+   Others: can only read but cannot write and execute
+
+b) drwxrwx---
+   User  : can read, write and execute the folder
+   Group : can read, write and execute the folder
+   Others: can neither read, write nor execute the folder
+
+c) -rw-r--r--
+   User  : can read and write the file
+   Group : can only read the file
+   Others: can only read the file
+
+d) chmod 750 file
+   User  : can read, write and execute the file
+   Group : can read and execute but cannot write
+   Others: can neither read, write nor execute the file
+
+e) chmod 600 file
+   User  : can read and write the file
+   Group : can neither read, write nor execute the file
+   Others: can neither read, write nor execute the file
+
