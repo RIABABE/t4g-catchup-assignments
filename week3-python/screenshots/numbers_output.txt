@@ -1,0 +1,19 @@
+Task 1 Output:
+10 + 3 = 13
+10 - 3 = 7
+10 * 3 = 30
+10 / 3 = 3.3333333333333335
+10 // 3 = 3
+10 % 3 = 1
+10 ** 3 = 1000
+
+Task 2 Output:
+A rectangle with length 12.5 and width 8.0 has an area of 100.0 and a perimeter of 41.0.
+
+Task 3 Output:
+int 42 to float: 42.0
+float 9.99 to int: 9
+Type of string: Hello
+Type of int: 123
+Type of float: 4.56
+Type of list: [1, 2, 3]

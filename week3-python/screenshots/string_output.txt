@@ -1,0 +1,24 @@
+Task 1 Output:
+Rashida
+Ahmed
+20
+f-strings
+
+Task 2 Output:
+Rashida Ahmed
+Rashida Ahmed
+
+Task 3 Output:
+RASHIDA AHMED
+rashida ahmed
+Number of 'a' (any case): 3
+First space index: 7
+Coder Ahmed
+
+Task 4 Output:
+Hi, I am Rashida Ahmed I am 20 years old and my favourite concept so far is f-strings.
+
+Task 5 Output:
+First char: 'R'
+Last char: 'd'
+First name slice: 'Rashida'

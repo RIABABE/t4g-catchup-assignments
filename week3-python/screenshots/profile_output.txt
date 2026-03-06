@@ -1,0 +1,11 @@
+========================================
+          PROFILE CARD
+========================================
+Name:         Rashida Ahmed
+Cohort:       T4G
+Age:          20
+Fav Topic:    Data Types and f-strings
+Current Week: 3
+----------------------------------------
+Weeks left:   9 (in 12-week program)
+========================================
